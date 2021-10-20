@@ -1,3 +1,6 @@
+# :wave: Hello, GitHub!
+Komitovao sam rešenje jednog Java projekta sa JetBrains Academy. 🚀
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 

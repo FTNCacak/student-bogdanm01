@@ -1,5 +1,5 @@
 # :wave: Hello, GitHub!
-Komitovao sam rešenje jednog Java projekta sa [JetBrains Academy.](https://www.jetbrains.com/academy/) 🚀
+Postavio sam rešenje jednog Java projekta sa [JetBrains Academy.](https://www.jetbrains.com/academy/) 🚀
 
 <details>
   <summary>Originalni Sadržaj ReadMe datoteke</summary>
